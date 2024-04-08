@@ -22,3 +22,4 @@ Methodology:
 I collected the Airbnb listings data from AIRBNB website and performed data cleaning and preprocessing to ensure data quality.
 Utilizing Tableau, I created interactive dashboards and visualizations to present the findings effectively.
 I employed statistical techniques and data visualization best practices to derive meaningful insights from the data.
+https://public.tableau.com/app/profile/adams.kiptalam/viz/AirBnBFullProject_17075826057870/Dashboard1
